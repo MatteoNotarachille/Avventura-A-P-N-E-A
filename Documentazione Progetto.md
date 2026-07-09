@@ -13,7 +13,7 @@
 ## Indice
 
 - [Descrizione dell’avventura](#Descrizione-dell’avventura)
-- [Modalità d’avvio](#Modalità-d’avvio)
+- [Modalita' d’avvio](#Modalita'-d’avvio)
 - [Soluzione del gioco](#Soluzione-del-gioco)
 - [Progettazione](#Progettazione)
 - [Diagramma delle classi](#Diagramma-delle-classi)
@@ -40,7 +40,7 @@ La terza, invece, permette di continuare l’esplorazione tra le rovine della ci
 
 Durante l'esplorazione il giocatore può raccogliere oggetti, come cibo, armi, utilities…,  combattere nemici, guadagnare esperienza e salire di livello. Il sistema di morte non è definitivo: ad ogni morte il giocatore ricomincia dall'inizio, tranne se arriva ad un checkpoint  (gestita in modo tale da farlo ripartire da quel punto in poi). Ogni morte e ogni finale vengono registrati su database e, al termine, i risultati vengono trasmessi a un server centrale che aggiorna una classifica ordinata per numero di morti.
 
-## Modalità d’avvio
+## Modalita' d’avvio
 Dopo l’esecuzione del gioco, attraverso un pop up, viene offerta una possibilità di scelta di avvio, in due modalità: server o client. Se si vuole testare l’opzione classifica locale multigiocatore, bisogna scegliere entrambe le modalità avviando due esecuzioni del gioco, dove nella prima scegliere la voce “Avvia come server” e nella seconda scegliere la voce “Connettiti come client” e lasciare nel campo “Inserisci l’IP del computer server” il localhost che è già scritto come valore di default (valore che permette di connettersi in automatico al server già avviato sulla stessa macchina).
 
 La finestra server può essere chiusa solo dopo che è terminata la sessione di gioco come client. Si possono giocare entrambe le esecuzioni se si vogliono vedere visualizzati due risultati in classifica.
