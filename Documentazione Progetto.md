@@ -13,7 +13,7 @@
 ## Indice
 
 - [Descrizione dell’avventura](#Descrizione-dell’avventura)
-- [Modalita' d’avvio](#Modalita'-d’avvio)
+- [Modalità d’avvio](#Modalità-d’avvio)
 - [Soluzione del gioco](#Soluzione-del-gioco)
 - [Progettazione](#Progettazione)
 - [Diagramma delle classi](#Diagramma-delle-classi)
