@@ -7,10 +7,10 @@ Avventura grafica point-and-click sviluppata in Java con Swing.
 
 ## Come giocare
 ### Opzione 1:
-1. Scarica il JAR dalla sezione [Releases](link)
+1. Scarica il JAR dalla sezione `Releases`
 2. Assicurati di avere Java installato
 3. Lancia il JAR con doppio click oppure da terminale:
-   ```java -jar APNEA.jar```
+   ` java -jar APNEA.jar `
 ### Opzione 2:
 Requisiti: NetBeans IDE installato
 1. Clona o scarica questo repository
